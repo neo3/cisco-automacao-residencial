@@ -1,6 +1,6 @@
 Modelo de sistema de Automação Residencial utilizando Raspberry Pi como um servidor local, responsável por controlar os dispositivos a ele conectados.
 
-AUTORES:
+Autores:
 
 ABNER WESLEY
 ANDERSON COSTA
