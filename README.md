@@ -1,6 +1,6 @@
-Modelo de sistema de AutomaÁ„o Residencial utilizando Raspberry Pi como um servidor local, respons·vel por controlar os dispositivos a ele conectados.
+Modelo de sistema de Automa√ß√£o Residencial utilizando Raspberry Pi como um servidor local, respons√°vel por controlar os dispositivos a ele conectados.
 
-Autores:
+AUTORES:
 
 ABNER WESLEY
 ANDERSON COSTA
