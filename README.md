@@ -1,12 +1,12 @@
-Modelo de sistema de Automação Residencial utilizando Raspberry Pi como um servidor local, responsável por controlar os dispositivos a ele conectados.
+<h1>Modelo de sistema de Automação Residencial utilizando Raspberry Pi e Smartphone</h1>
 
-Autores
+<h3>Autores</h3>
 
-ABNER WESLEY
-ANDERSON COSTA
-DIOGO CERIBELLI
-GABRIEL GREGIO
-JANAINA SILVA
-MARCOS GABRIEL
-RENATO PEREIRA
-YURI RICARDO
+Abner Wesley<br>
+Anderson Costa<br>
+Diogo Ceribelli<br>
+Gabriel Gregio<br>
+Janaína Silva<br>
+Marcos Gabriel<br>
+Renato Pereira<br>
+Yuri Ricardo<br>
